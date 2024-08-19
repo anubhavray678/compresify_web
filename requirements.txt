@@ -1,6 +1,0 @@
-gunicorn
-python-decouple
-psycopg[binary]
-dj-database-url
-requests
-whitenoise
